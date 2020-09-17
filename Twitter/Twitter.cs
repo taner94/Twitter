@@ -62,7 +62,6 @@ namespace Twitter
         public async Task<string> GetAccessToken()
         {
             OAuthConsumerKey = "********";// bu kısımlar twitter devoloper hesabından alınmalı
-
             OAuthConsumerSecret = "*****";
             var httpClient = new HttpClient();
             var request = new HttpRequestMessage(System.Net.Http.HttpMethod.Post, "https://api.twitter.com/oauth2/token ");
