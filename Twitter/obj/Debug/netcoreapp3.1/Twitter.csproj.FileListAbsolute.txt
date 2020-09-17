@@ -1,0 +1,6 @@
+C:\Users\Taner\source\repos\Twitter\Twitter\bin\Debug\netcoreapp3.1\Twitter.exe
+C:\Users\Taner\source\repos\Twitter\Twitter\obj\Debug\netcoreapp3.1\Twitter.csprojAssemblyReference.cache
+C:\Users\Taner\source\repos\Twitter\Twitter\obj\Debug\netcoreapp3.1\Twitter.AssemblyInfoInputs.cache
+C:\Users\Taner\source\repos\Twitter\Twitter\obj\Debug\netcoreapp3.1\Twitter.AssemblyInfo.cs
+C:\Users\Taner\source\repos\Twitter\Twitter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Taner\source\repos\Twitter\Twitter\obj\Debug\netcoreapp3.1\Twitter.csproj.CopyComplete
