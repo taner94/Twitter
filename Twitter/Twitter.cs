@@ -25,7 +25,7 @@ namespace Twitter
             }
             userName = "****";// postların cekilecegi hesap verilmeli
             var response = GetUserTimelineJson(accessToken, userName);
-            dynamic jsonResponse = JsonConvert.DeserializeObject(response);
+            //dynamic jsonResponse = JsonConvert.DeserializeObject(response); // dönüş tipi değitirilebilir
             return response;
         }
         public string GetUserTimelineJson(string bearerToken, string screenName, int count = 10, bool excludeReplies = false, bool includeRTs = true)
