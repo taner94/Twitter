@@ -21,7 +21,7 @@ namespace Twitter
         {
             if (accessToken == "")
             {
-                accessToken = await GetAccessToken();
+                accessToken = await GetAccessToken();//twitter dev hesabına ait tokenı alan method
             }
             userName = "****";// postların cekilecegi hesap verilmeli
             var response = GetUserTimelineJson(accessToken, userName);
